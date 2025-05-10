@@ -7,3 +7,11 @@ body {
     flex-direction: column;
     min-height: 100vh;
   }
+
+  header, footer {
+    background-color: #1e3a8a;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+  }
+  
