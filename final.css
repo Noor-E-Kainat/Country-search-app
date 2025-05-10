@@ -31,3 +31,17 @@ body {
     border: 1px solid #ccc;
     border-radius: 4px;
   }
+
+  button {
+    padding: 0.5em 1em;
+    margin-left: 0.5em;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #1d4ed8;
+  }
