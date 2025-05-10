@@ -45,3 +45,20 @@ body {
   button:hover {
     background-color: #1d4ed8;
   }
+
+  #result {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 8px;
+    padding: 1em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  #result img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    margin-top: 1em;
+  }
